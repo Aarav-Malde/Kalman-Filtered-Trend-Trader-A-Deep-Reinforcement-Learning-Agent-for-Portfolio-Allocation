@@ -1,6 +1,6 @@
 # Kalman-Filtered Trend Trader: A Deep Reinforcement Learning Agent for Portfolio Allocation
 
-This repository is part of **WiDS (Women in Data Science)** conducted by **The Analytics Club, IIT Bombay**.
+This repository is part of **WiDS (Winters in Data Science)** conducted by **The Analytics Club, IIT Bombay**.
 
 ---
 
