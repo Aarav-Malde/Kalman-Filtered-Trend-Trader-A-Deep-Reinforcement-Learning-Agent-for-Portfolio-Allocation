@@ -113,9 +113,9 @@ By completing this project, you will learn:
 
 **Deliverables:**  
 - Final GitHub repo with:
-  - 📊 Money Plot  
-  - 📈 Filter visualization  
-  - 🧾 README.md + short project report  
+  - Money Plot  
+  - Filter visualization  
+  - README.md + short project report  
 
 ---
 
@@ -130,14 +130,14 @@ Your agent’s portfolio curve beats both **Buy & Hold** and **SPY** over unseen
 
 ---
 
-## Why This Project Matters
+## What will you learn while doing this project
 
 This project blends **machine learning**, **finance**, and **signal processing** into a single hands-on system.  
 You’ll gain the technical and conceptual depth needed for **quantitative trading**, **AI research**, and **data-driven financial modeling** — all while learning to see through noise and act intelligently.
 
 ---
 
-### Tools & Libraries
+### Tools & Libraries to be used
 
 - Python (NumPy, Pandas, Matplotlib)
 - `yfinance` for market data
@@ -145,6 +145,7 @@ You’ll gain the technical and conceptual depth needed for **quantitative tradi
 - `gymnasium` for custom environment
 - `stable-baselines3` for RL training
 - `scikit-learn` for evaluation and analysis
+- `L<sup>a</sup>T<sub>E</sub>X`
 
 ---
 
