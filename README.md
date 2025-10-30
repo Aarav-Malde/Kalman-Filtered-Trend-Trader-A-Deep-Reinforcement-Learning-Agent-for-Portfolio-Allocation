@@ -145,7 +145,7 @@ You’ll gain the technical and conceptual depth needed for **quantitative tradi
 - `gymnasium` for custom environment
 - `stable-baselines3` for RL training
 - `scikit-learn` for evaluation and analysis
-- `L<sup>a</sup>T<sub>E</sub>X`
+- `LaTeX` for report submissions
 
 ---
 
