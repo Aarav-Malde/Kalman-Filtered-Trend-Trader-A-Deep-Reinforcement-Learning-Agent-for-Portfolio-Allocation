@@ -41,7 +41,17 @@ By completing this project, you will learn:
 - Portfolio optimization, returns, and volatility  
 - Python tools: `pandas`, `numpy`, `matplotlib`, `yfinance`  
 - RL basics: state, action, reward, policy  
-- “Buy & Hold” vs “Active” strategies  
+- “Buy & Hold” vs “Active” strategies
+
+**Material**
+ML Resources 
+https://youtu.be/Gv9_4yMHFhI?si=Jp2drn5i9viSmjl8 (gentle Introduction)
+3b1b ke resources hain
+
+Linear Regression - https://www.youtube.com/watch?v=VmbA0pi2cRQ
+Deep Learning with Pytorch Playlist - https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh (Mainly 1 to 4)
+Deep Learning Basics - https://www.youtube.com/watch?v=VyWAvY2CF9c
+PyTorch Basics - https://www.youtube.com/watch?v=c36lUUr864M
 
 **Deliverables:**  
 - Download and visualize SPY data  
@@ -58,6 +68,12 @@ By completing this project, you will learn:
 - Implementing Kalman Filter (`numpy` or `filterpy`)  
 - Tuning parameters and visualizing results  
 
+**Material**
+KALMAN FILTER
+https://youtu.be/IFeCIbljreY?si=O-3gv1U1AM2u_3SP (Introductory)
+https://youtu.be/RxIdLu18SsE?si=EECwQZlIGPRbPZ8a (Quant Specific)
+https://youtu.be/R63dU5w_djQ?si=r_hohmKSVsv0KDS7(In Depth)
+
 **Deliverables:**  
 - Jupyter Notebook plotting:
   - Raw vs filtered price  
@@ -70,7 +86,15 @@ By completing this project, you will learn:
 **Learn:**  
 - Gymnasium API structure (`reset`, `step`, `render`)  
 - Define state = [allocation, estimated_price, velocity]  
-- Reward = portfolio gain – transaction cost  
+- Reward = portfolio gain – transaction cost
+
+**Material**
+RL course:
+https://www.youtube.com/watch?v=4ngb0IZTg8I&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX (lect 1 to 4)
+https://deeplizard.com/learn/video/nyjbcRQ-uQ8 
+Complementary resource with lots of shit
+
+Small Course explaining Reinforcement Learning https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv
 
 **Deliverables:**  
 - `portfolio_env.py`  
